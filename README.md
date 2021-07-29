@@ -47,9 +47,9 @@
 
 ## 🏆 _Github Status_
 
-<img  src="https://github-readme-stats.vercel.app/api?username=rparth07&show_icons=true&hide_border=true&theme=dark" width="100%" align="right" >
+<img  src="https://github-readme-stats.vercel.app/api?username=rparth07&show_icons=true&hide_border=true&theme=dark" width="75%" align="center" >
 <br>
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=rparth07&theme=dark" width="100%" >
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=rparth07&theme=dark" width="75%" align="center" >
 <br>
 <br>
 <div align="center">
