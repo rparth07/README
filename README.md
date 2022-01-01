@@ -8,11 +8,11 @@
 
 - I'm a Computer Engineering Student from India
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 🔭 I’m currently working on oprncv projects.
-- 🌱 I’m currently learning opencv
-- 👯 I’m looking to collaborate with other Devlopers to bring life to new project.
+<!--- 🔭 I’m currently working on opencv projects. -->
+- 🌱 I’m currently learning Blockchain
+- 👯 I’m looking to collaborate with other Developers to bring life to new project.
 <!--- 🤔 I’m looking for help with ... -->
-- ⚡ Fun fact: Git shit done
+- ⚡ Fun fact: Git shit done repeat
 - 🥅 Life Goals: Contribute more to Open Source projects , Give all happiness
   to my family
 - 💬 Ask me your queries
