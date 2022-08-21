@@ -8,10 +8,8 @@
 
 - I'm a Computer Engineering Student from India
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-<!--- 🔭 I’m currently working on opencv projects. -->
 - 🌱 I’m currently learning Blockchain
 - 👯 I’m looking to collaborate with other Developers to bring life to new project.
-<!--- 🤔 I’m looking for help with ... -->
 - ⚡ Fun fact: Git shit done repeat
 - 🥅 Life Goals: Contribute more to Open Source projects , Give all happiness
   to my family
@@ -41,9 +39,6 @@
 ![opencv](https://img.shields.io/badge/-opencv-black?style=for-the-badge&logo=opencv)
 ![Java](https://img.shields.io/badge/-java-black?style=for-the-badge&logo=java)
 ![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python)
-
-<!--
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logo=mongodb) -->
 
 ## 🏆 _Github Status_
 
