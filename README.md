@@ -48,17 +48,17 @@
 <br>
 <div align="center">
 
-  <!--
-[![trophy](https://github-profile-trophy.vercel.app/?username=rparth07&theme=juicyfresh&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy) -->
 
-<!--
+[![trophy](https://github-profile-trophy.vercel.app/?username=rparth07&theme=juicyfresh&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=rparth07&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
--->
 
-<!--
+
+
 <br>
 ![Parth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rparth07&show_icons=true&hide_border=true&theme=dracula)
--->
+
 
 <!-- remaining
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rparth07&layout=compact&hide_border=false&theme=dracula)
