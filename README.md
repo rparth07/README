@@ -27,6 +27,8 @@
 
 ### Languages and Tools:
 
+![.NET](https://img.shields.io/badge/-.NET-black?style=for-the-badge&logo=.NET)
+![Angular](https://img.shields.io/badge/-Angular-black?style=for-the-badge&logo=Angular)
 ![C++](https://img.shields.io/badge/-C++-black?style=for-the-badge&logo=C++)
 ![C](https://img.shields.io/badge/-c-black?style=for-the-badge&logo=c)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=mysql)
