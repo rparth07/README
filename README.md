@@ -31,8 +31,9 @@
 ![.NET](https://img.shields.io/badge/-.NET-black?style=for-the-badge&logo=.NET)
 ![Angular](https://img.shields.io/badge/-Angular-black?style=for-the-badge&logo=Angular)
 ![C++](https://img.shields.io/badge/-C++-black?style=for-the-badge&logo=C++)
-![C](https://img.shields.io/badge/-c-black?style=for-the-badge&logo=c)
+![C](https://img.shields.io/badge/-C-black?style=for-the-badge&logo=c)
 ![go](https://img.shields.io/badge/-go-black?style=for-the-badge&logo=go)
+![Apex](https://img.shields.io/badge/-Apex-black?style=for-the-badge&logo=Apex)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=mysql)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github)
 ![JavaScript](https://img.shields.io/badge/-javascript-black?style=for-the-badge&logo=javascript)
@@ -68,5 +69,3 @@
 <!-- remaining
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rparth07&layout=compact&hide_border=false&theme=dracula)
 <br>-->
-
-<h2 align="center">I ❤️ Memes ;)</h2>
