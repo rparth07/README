@@ -18,7 +18,6 @@
 ### Connect with me:
 
 [<img align="left" alt="rparth07 | Email" src="https://img.shields.io/badge/-mail-c14438?style=for-the-badge&labelColor=c14438&logo=gmail&logoColor=white"/>](mailto:pmr642001@gmail.com)
-[<img align="left" alt="rparth07 | Twitter" src="https://img.shields.io/badge/-twitter-00a0dc?style=for-the-badge&labelColor=00a0dc&logo=twitter&logoColor=white" />](https://twitter.com/Parth03803339)
 [<img align="left" alt="rparth07 | GitHub" src="https://img.shields.io/badge/-Github-black?style=for-the-badge&logo=GitHub&logoColor=white" />](https://github.com/rparth07)
 [<img align="left" alt="rparth07 | LinkedIn" src="https://img.shields.io/badge/-linkedin-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/parth-raiyani-243b48199/)
 <br />
